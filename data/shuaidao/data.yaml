@@ -1,0 +1,7 @@
+train: data\shuaidao\train\images
+val: data\shuaidao\val\images
+test: data\shuaidao\test\images
+
+nc: 2
+#names: ['sitting', 'standing', 'falling']
+names: ['standing', 'falling']
