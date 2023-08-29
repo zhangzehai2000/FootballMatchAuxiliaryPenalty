@@ -1,3 +1,5 @@
+resouces以及weights文件太大，请先参考gitee同名项目
+
 ###运行
 ####后端运行
 recongnition \
@@ -37,7 +39,6 @@ fall_utils为铲球识别的文件
 
 ####环境
 pip install -r requirements.txt
-
 
 
 
